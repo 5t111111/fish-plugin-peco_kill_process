@@ -1,9 +1,9 @@
-# fish-plugin-peco_kill_process
+# peco_kill_process
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_kill_process
+$ fisher unreliable-angels/peco_kill_process
 ```
 
 ## Example key binding
